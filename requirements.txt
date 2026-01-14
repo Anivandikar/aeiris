@@ -1,2 +1,6 @@
 openai
 python-dotenv
+sounddevice
+scipy
+pyttsx3
+piper
